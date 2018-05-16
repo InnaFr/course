@@ -90,6 +90,13 @@ namespace ConsoleApplication1
             for (int i = 0; i < 2; i++)
             {
                 masInt[i] = int.Parse(masStr[i]);
+                if (masInt[i]>=N)
+                {
+                    Console.WriteLine("Введенные координаты вне поля!");
+                    Console.ReadKey();
+                    Environment.Exit(0);
+                    
+                }
             }
 
         }
