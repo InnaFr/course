@@ -1,0 +1,6 @@
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\bin\Debug\PrinterApplication.exe.config
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\bin\Debug\PrinterApplication.exe
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\bin\Debug\PrinterApplication.pdb
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\obj\Debug\PrinterApplication.csprojResolveAssemblyReference.cache
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\obj\Debug\PrinterApplication.exe
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\obj\Debug\PrinterApplication.pdb

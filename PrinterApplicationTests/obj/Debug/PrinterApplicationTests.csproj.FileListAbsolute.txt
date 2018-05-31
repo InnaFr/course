@@ -1,0 +1,16 @@
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\PrinterApplicationTests.dll
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\PrinterApplicationTests.pdb
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\Castle.Core.dll
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\Moq.dll
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\Ploeh.AutoFixture.dll
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\PrinterApplication.exe
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\PrinterApplication.pdb
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\PrinterApplication.exe.config
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\Castle.Core.xml
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\Moq.xml
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\Ploeh.AutoFixture.xml
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\obj\Debug\PrinterApplicationTests.csprojResolveAssemblyReference.cache
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\obj\Debug\PrinterApplicationTests.dll
+c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplicationTests\obj\Debug\PrinterApplicationTests.pdb
