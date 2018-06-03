@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Smth.Models.Human>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>table</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Smt")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.age)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.age)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { namee = item.name }) |
+                    @Html.ActionLink("Delete", "Deletic", new { namee = item.name })
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

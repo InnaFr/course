@@ -1,0 +1,24 @@
+﻿@model Smth.Models.Human
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Вы знаете, что делать</title>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm())
+        {
+            <p>Имя: @Html.TextBoxFor(n=>n.name)</p>
+            <p>Возраст: @Html.TextBoxFor(n => n.age)</p>
+            <input type="submit" value="Готово" />
+        }
+    </div>
+</body>
+</html>

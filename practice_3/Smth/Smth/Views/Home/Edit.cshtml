@@ -1,0 +1,25 @@
+﻿@model Smth.Models.Human
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+    <div> 
+        <p>@ViewBag.Try</p>
+        @using (Html.BeginForm())
+        {
+            <p>Имя: @Html.TextBoxFor(n => n.name, new { @Value=Model.name})</p>
+            <p>Возраст: @Html.TextBoxFor(n => n.age, new { @Value = Model.age })</p>
+            <input type="submit" value="Готово" />
+        }
+    </div>
+</body>
+</html>
