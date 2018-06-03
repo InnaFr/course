@@ -1,0 +1,23 @@
+ public void WorkWithDB()
+        {
+     
+            using (SqlConnection cn = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\DBinform.mdf;Integrated Security=True")) // юзинг для того, чтобы подключение в случае проблемы закрылось. тут создается подключение. ключевая строка - это строка подключения, главное тут - провайдер. провайдер - это ключевая разница в подключениях
+            {
+                if (cn.State == ConnectionState.Closed)
+                {
+                    cn.Open();//если соединение закрыто - октрыть
+                }
+               
+                DataColumn Name = new DataColumn("Имя", typeof(string));
+                Name.Caption = "Имя";
+                Name.AllowDBNull = false;
+                DataTable myFirstTable = new DataTable("Gamers");
+                myFirstTable.Columns.AddRange(new DataColumn[] { Name });
+                DataRow firstRow = myFirstTable.NewRow();
+                firstRow[Name] = "Тимур";
+                myFirstTable.Rows.Add(firstRow);
+                dataSet1.Tables.Add(myFirstTable);
+
+            }
+
+        }
