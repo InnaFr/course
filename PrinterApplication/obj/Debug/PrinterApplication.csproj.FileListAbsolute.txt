@@ -4,3 +4,17 @@ c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterA
 c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\obj\Debug\PrinterApplication.csprojResolveAssemblyReference.cache
 c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\obj\Debug\PrinterApplication.exe
 c:\users\pc435\documents\visual studio 2017\Projects\PrinterApplication\PrinterApplication\obj\Debug\PrinterApplication.pdb
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\PrinterApplication.exe.config
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\PrinterApplication.exe
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\PrinterApplication.pdb
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\AutoFixture.dll
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\Fare.dll
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\nunit.framework.dll
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\AutoFixture.pdb
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\AutoFixture.xml
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\Fare.xml
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\nunit.framework.pdb
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\bin\Debug\nunit.framework.xml
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\obj\Debug\PrinterApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\obj\Debug\PrinterApplication.exe
+C:\Users\user\Documents\GitHub\SimpleAutoFixtureTest\PrinterApplication\obj\Debug\PrinterApplication.pdb
